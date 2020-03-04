@@ -90,6 +90,7 @@ background: var(--primary-color-hover);
 }
 .btn-secondary{
 background: var(--secondary-color);
+margin-bottom: 5rem;
 }
 .btn-secondary:hover{
 background: var(--secondary-color-hover);
@@ -103,6 +104,10 @@ color: var(--secondary-color);
 }
 .text-light{
 color: var(--light-color);
+}
+.bg-light{
+background: var(--light-color);
+color: #333;
 }
 /* navigation */
   nav {
